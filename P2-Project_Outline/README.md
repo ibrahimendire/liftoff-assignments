@@ -9,26 +9,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 
-Doctor Appointment Web  Applicatin, makes your Appointment easy.
-Users can make appointment for checkup, to see  Specailist ,to visit Dentist ...based on what they need.
-Users can make appointment either they have insurance or not.
+Hotel management  Web  Applicatin, 
+with hotel101 web app admin can search room status, add room to avaliablity , delete room from availability
+with hotel101 web app admin can check-in geusts 
+hotel101 web app can automaticaly send email to guests about thier room detail when they checked-in by admin.
 ### Features
 Include Features here
 
-User  LogIn: users can create account and able to logIn
-Search : Users able to search avaliable hopitals for their need with availabe Doctors/Specialist list 
-
+LogIn:  admin I can  log in with valid email and password So that  he/she can  use hotel101 web App
+Search : admin  able to search avaliablity of rooms by thier room Number
+Email : guests able to get email/text about thier room detail when check in 
 ### Technologies
 Include Technologies here
 
-C#
-Html,CSS,JavaScript
+C#,
+Html,
+CSS,
+JavaScript,
 Bootstrap
 
 ### What I'll Have to Learn
 Include what you will need to learn here
 
-in this project I will learn how to use web API(I will use Google map API to filter hospitals location based on user's location)
+In this project I will learn how to send text message from web application.
 ### Project Tracker
 Link to your Trello board here
 https://trello.com/invite/b/ZO1hlsIC/17447992486494374d8921b078c3f197/liftoffproject
