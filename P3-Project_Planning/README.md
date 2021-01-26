@@ -1,19 +1,10 @@
-# Project Planning
-For this assignment, you'll create some initial plans for your project.
-
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
-
-## Submission Instructions
+https://education.launchcode.org/liftoff/modules/assignments/project-planning
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
+https://ibrahimendire.github.io/Hotel-project-wireframe/
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/AVKekPF2/9f691122017bcea82fd8cff9f467b929/ibrahim-project
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/ibrahimendire/LemiHotel
